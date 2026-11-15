@@ -31,12 +31,12 @@ export default {
     }
   ],
   "projects": [
-    {
-  "t": "Bahria Subh-e-Nau School Website",
-  "g": "1st Position – Computer Science | Science Exhibition",
-  "d": "Developed a complete school website with an online admission portal and admin panel for the Inter-House Science Exhibition at Bahria Subh-e-Nau School, North 1, Karachi. Built using React.js and Supabase, featuring dynamic website content management, student admissions, notices, events, gallery, and administrative controls. Proudly secured 1st Position in the Computer Science category.",
-  "link": "https://bahria-sns.vercel.app/",
-  "img": "/images/school-project.jpg"
+  {
+  "t": "Bahria Subh-e-Nau School Website & Admission Portal",
+  "g": "1st Position – Computer Science",
+  "d": "Developed a school website with an online admission portal and admin panel for the Inter-House Science Exhibition at Bahria Subh-e-Nau School, Nore 1, Karachi. Built with React and Supabase. Proudly secured 1st Position in the Computer Science category.",
+  "link": "YOUR_VERCEL_WEBSITE_LINK",
+  "img": "/images/bahria-school-project.png"
 },
     {
       "t": "AMB Coding-Bite",
