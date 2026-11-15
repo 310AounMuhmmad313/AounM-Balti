@@ -36,7 +36,7 @@ export default {
   "g": "1st Position – Computer Science",
   "d": "Developed a school website with an online admission portal and admin panel for the Inter-House Science Exhibition at Bahria Subh-e-Nau School, Nore 1, Karachi. Built with React and Supabase. Proudly secured 1st Position in the Computer Science category.",
   "link": "YOUR_VERCEL_WEBSITE_LINK",
-  "img": "/images/bahria-school-project.png"
+  "img": "/images/bahria-school-project.jpg"
 },
     {
       "t": "AMB Coding-Bite",
